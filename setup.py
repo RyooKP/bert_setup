@@ -9,7 +9,7 @@ setup(
     author='kp.ryoo',
     author_email='kp.ryoo@yonsei.ac.kr',
     license='MIT',
-    pakages=['bert_setup'],
+    pakages=['bert'],
     zip_safe=False,
     install_requires=[]
 )
