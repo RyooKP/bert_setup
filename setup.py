@@ -8,10 +8,10 @@ setup(
     # download_url     = 'https://githur.com/rampart81/pyquibase/archive/1.0.tar.gz',
     author='kp.ryoo',
     author_email='kp.ryoo@yonsei.ac.kr',
-    license=' ',
-    # pakages=['bert_setup'],
+    license='MIT',
+    pakages=['bert_setup'],
     zip_safe=False,
-    install_requies=[]
+    install_requires=[]
 )
 
 
